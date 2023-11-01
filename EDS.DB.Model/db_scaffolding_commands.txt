@@ -1,0 +1,2 @@
+Scaffold-DbContext "Server=DESKTOP-PKL9BVC\SQLEXPRESS;Database=EDS;Trusted_Connection=True;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir EF.Models -ContextDir Data -Context SerializationContext -Schemas "dbo" -DataAnnotations -Force
+

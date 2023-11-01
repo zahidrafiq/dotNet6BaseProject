@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EDS.DB.Model\EDS.DB.Model.csproj" />
+    <ProjectReference Include="..\Libs\Core.DataMapper\Core.Net.DataMapper.csproj" />
+    <ProjectReference Include="..\Libs\Core.Repository\Core.Net.Repository.csproj" />
+    <ProjectReference Include="..\Libs\Core.Service\Core.Net.Service.csproj" />
+  </ItemGroup>
+
+</Project>
