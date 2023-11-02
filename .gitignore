@@ -2,3 +2,5 @@
 obj/
 bin/
 *.log
+EDS.DB/EDS.DB.dbmdl
+EDS.DB/EDS.DB.jfm
